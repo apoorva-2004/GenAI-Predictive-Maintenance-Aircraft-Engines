@@ -1,9 +1,4 @@
-Perfect 👍
-Below is a **DETAILED, 2-PAGE PROFESSIONAL README.md** written exactly at the level **Rolls-Royce / Data Labs recruiters expect**.
 
-You can **copy–paste this entire content** into your GitHub `README.md`.
-
----
 
 # 🛠️ GenAI-Powered Predictive Maintenance System for Aircraft Engines
 
